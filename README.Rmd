@@ -19,7 +19,7 @@ devtools::load_all(".")
 ###### Version : [`r getNamespaceVersion("binGroup2")`](https://myaseen208.com/binGroup2/);  License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
 
 
-##### *Brianna Hitt^1^, Christopher Bilder^1^, Frank Schaarschmidt^2^, Brad Biggerstaff^3^*, Christopher McMahan^4^*, Joshua Tebbs^5^*, Boan Zhang^1^*, Michael Black^1^*, Peijie Hou^5^*, Peng Chen^5^*, Minh Nguyen^1^*
+##### *Brianna Hitt^1^*, *Christopher Bilder^1^*, *Frank Schaarschmidt^2^*, *Brad Biggerstaff^3^*, *Christopher McMahan^4^*, *Joshua Tebbs^5^*, *Boan Zhang^1^*, *Michael Black^1^*, *Peijie Hou^5^*, *Peng Chen^5^*, *Minh Nguyen^1^*
 
 
 1. [Department of Statistics, University of Nebraska-Lincoln, USA](https://statistics.unl.edu/)

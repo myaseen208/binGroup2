@@ -3,7 +3,7 @@
 
 ###### Version : [1.3.1](https://myaseen208.com/binGroup2/); License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
 
-##### *Brianna Hitt<sup>1</sup>, Christopher Bilder<sup>1</sup>, Frank Schaarschmidt<sup>2</sup>, Brad Biggerstaff<sup>3</sup>*, Christopher McMahan<sup>4</sup>*, Joshua Tebbs<sup>5</sup>*, Boan Zhang<sup>1</sup>*, Michael Black<sup>1</sup>*, Peijie Hou<sup>5</sup>*, Peng Chen<sup>5</sup>*, Minh Nguyen<sup>1</sup>\*
+##### *Brianna Hitt<sup>1</sup>*, *Christopher Bilder<sup>1</sup>*, *Frank Schaarschmidt<sup>2</sup>*, *Brad Biggerstaff<sup>3</sup>*, *Christopher McMahan<sup>4</sup>*, *Joshua Tebbs<sup>5</sup>*, *Boan Zhang<sup>1</sup>*, *Michael Black<sup>1</sup>*, *Peijie Hou<sup>5</sup>*, *Peng Chen<sup>5</sup>*, *Minh Nguyen<sup>1</sup>*
 
 1.  [Department of Statistics, University of Nebraska-Lincoln,
     USA](https://statistics.unl.edu/)
@@ -37,7 +37,7 @@ downloads](https://cranlogs.r-pkg.org/badges/grand-total/binGroup2?color=green)]
 [![Project Status:
 WIP](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2024--07--14-yellowgreen.svg)](https://github.com/myaseen208/binGroup2)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2024--07--15-yellowgreen.svg)](https://github.com/myaseen208/binGroup2)
 
 ------------------------------------------------------------------------
 
